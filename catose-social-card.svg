@@ -1,0 +1,13 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F2EEE6"/>
+  <circle cx="930" cy="315" r="320" stroke="#E76F51" stroke-opacity="0.22"/>
+  <circle cx="930" cy="315" r="235" stroke="#26231F" stroke-opacity="0.12" stroke-dasharray="12 12"/>
+  <path d="M760 338C820 293 894 285 962 298C1016 309 1054 286 1083 256M766 337L730 390L720 470M833 311L812 390L814 472M962 298L986 388L1018 470M1000 291L1043 360L1066 450" stroke="#E76F51" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#FFF4E6" stroke="#E76F51" stroke-width="6">
+    <circle cx="760" cy="338" r="14"/><circle cx="833" cy="311" r="12"/><circle cx="900" cy="294" r="12"/><circle cx="962" cy="298" r="13"/><circle cx="1000" cy="291" r="11"/><circle cx="1083" cy="256" r="14"/><circle cx="730" cy="390" r="10"/><circle cx="720" cy="470" r="11"/><circle cx="812" cy="390" r="10"/><circle cx="814" cy="472" r="11"/><circle cx="986" cy="388" r="10"/><circle cx="1018" cy="470" r="11"/><circle cx="1043" cy="360" r="10"/><circle cx="1066" cy="450" r="11"/>
+  </g>
+  <text x="86" y="150" fill="#E76F51" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5">CAT MOTION SYSTEM</text>
+  <text x="80" y="300" fill="#26231F" font-family="Georgia, serif" font-size="128" letter-spacing="-8">Catose</text>
+  <text x="88" y="390" fill="#706A61" font-family="Arial, sans-serif" font-size="34">Give digital cats a life.</text>
+  <text x="88" y="530" fill="#706A61" font-family="Arial, sans-serif" font-size="22">Capture motion · Shape behavior · Build embodied characters</text>
+</svg>
