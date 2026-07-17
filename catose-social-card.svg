@@ -1,13 +1,13 @@
 <svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="630" fill="#F2EEE6"/>
-  <circle cx="930" cy="315" r="320" stroke="#E76F51" stroke-opacity="0.22"/>
-  <circle cx="930" cy="315" r="235" stroke="#26231F" stroke-opacity="0.12" stroke-dasharray="12 12"/>
-  <path d="M760 338C820 293 894 285 962 298C1016 309 1054 286 1083 256M766 337L730 390L720 470M833 311L812 390L814 472M962 298L986 388L1018 470M1000 291L1043 360L1066 450" stroke="#E76F51" stroke-width="8" stroke-linecap="round"/>
-  <g fill="#FFF4E6" stroke="#E76F51" stroke-width="6">
-    <circle cx="760" cy="338" r="14"/><circle cx="833" cy="311" r="12"/><circle cx="900" cy="294" r="12"/><circle cx="962" cy="298" r="13"/><circle cx="1000" cy="291" r="11"/><circle cx="1083" cy="256" r="14"/><circle cx="730" cy="390" r="10"/><circle cx="720" cy="470" r="11"/><circle cx="812" cy="390" r="10"/><circle cx="814" cy="472" r="11"/><circle cx="986" cy="388" r="10"/><circle cx="1018" cy="470" r="11"/><circle cx="1043" cy="360" r="10"/><circle cx="1066" cy="450" r="11"/>
-  </g>
-  <text x="86" y="150" fill="#E76F51" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5">CAT MOTION SYSTEM</text>
-  <text x="80" y="300" fill="#26231F" font-family="Georgia, serif" font-size="128" letter-spacing="-8">Catose</text>
-  <text x="88" y="390" fill="#706A61" font-family="Arial, sans-serif" font-size="34">Give digital cats a life.</text>
-  <text x="88" y="530" fill="#706A61" font-family="Arial, sans-serif" font-size="22">Capture motion · Shape behavior · Build embodied characters</text>
+  <rect width="1200" height="630" fill="#F7F7F5"/>
+  <circle cx="930" cy="315" r="300" stroke="#18191B" stroke-opacity="0.14"/>
+  <circle cx="930" cy="315" r="220" stroke="#18191B" stroke-opacity="0.12" stroke-dasharray="12 12"/>
+  <path d="M790 259L820 178L904 238C940 224 981 224 1018 238L1102 178L1132 259C1162 289 1177 327 1177 369C1177 466 1083 533 961 533C839 533 745 466 745 369C745 327 760 289 790 259Z" fill="#202226"/>
+  <path d="M928 384L961 408L994 384" fill="#F7F7F5"/>
+  <path d="M745 341L684 324M747 378L680 378M756 415L697 438M1176 341L1237 324M1174 378L1241 378M1165 415L1224 438" stroke="#202226" stroke-width="15" stroke-linecap="round"/>
+  <text x="82" y="126" fill="#6F7176" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="5">A DIGITAL LIFE IN THE MAKING</text>
+  <text x="78" y="272" fill="#18191B" font-family="Georgia, serif" font-size="116" letter-spacing="-7">Catose</text>
+  <text x="84" y="370" fill="#18191B" font-family="Arial, sans-serif" font-size="35">为数字猫咪创造灵魂与自由空间</text>
+  <text x="84" y="480" fill="#6F7176" font-family="Arial, sans-serif" font-size="23">当前阶段：猫咪动作训练数据制作中</text>
+  <text x="84" y="530" fill="#6F7176" font-family="Arial, sans-serif" font-size="20">让数字世界的温暖，也能抵达现实中的猫咪。</text>
 </svg>
